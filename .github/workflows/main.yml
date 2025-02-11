@@ -8,3 +8,4 @@ jobs:
     runs-on: cllouud-3-org-repo2
     steps:
     - run: echo "🎉 This job uses runner scale set runners!"
+    - run: sleep 300
